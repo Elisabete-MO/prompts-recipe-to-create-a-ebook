@@ -5,7 +5,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com a colaboração da ferramenta de IA "ChatGPT". 
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Elisabete-MO/prompts-recipe-to-create-a-ebook/blob/elisabete-oliveira-ebook/output/e-book-software-wiki.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -45,5 +45,5 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       src="https://avatars.githubusercontent.com/Elisabete-MO?v=4"
     />
     <p>Elisabete Oliveira<br>
-    <a href="https://github.com/Elisabete-MO">GitHub</a>&nbsp;|&nbsp;
+    <a href="https://github.com/Elisabete-MO">GitHub</a>
     <a href="www.linkedin.com/in/elisabete-martinsdeoliveira">LinkedIn</a>
