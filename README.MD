@@ -7,6 +7,19 @@ Projeto com o objetivo de gerar um ebook digital com a colaboração da ferramen
 
 <a href="https://github.com/Elisabete-MO/prompts-recipe-to-create-a-ebook/blob/elisabete-oliveira-ebook/output/e-book-software-wiki.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
+## Introdução
+A documentação eficaz é a espinha dorsal de qualquer projeto de software 
+bem-sucedido, facilitando a colaboração, a manutenção e a compreensão do código. Este guia foi criado para ajudar desenvolvedores e equipes de tecnologia a adotarem boas práticas de documentação, utilizando a poderosa ferramenta de Wikis do GitHub.
+
+### O que você encontrará neste eBook:
+- Introdução à importância da documentação;
+- Visão geral do Git e GitHub; 
+- Passo a passo para criar e usar Git Wikis;
+- Boas práticas para uma documentação clara e organizada;
+- Exemplos práticos para facilitar a implementação.
+
+Este manual é direto ao ponto, ideal para quem busca uma abordagem prática e eficiente para documentar seus projetos de software. 💻✨
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
